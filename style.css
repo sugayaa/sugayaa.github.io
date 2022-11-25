@@ -105,7 +105,7 @@
 .experience-contents,
 .education-contents,
 .awards-contents {
-    display: grid,
+    display: grid;
     grid-template-columns: repeat(2, 1fr);
     padding-bottom: 2rem;
     color: #f1f8fd;
